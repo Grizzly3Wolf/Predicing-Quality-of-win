@@ -1,4 +1,4 @@
-# Predicing-Quality-of-win
+# Predicing-Quality-of-wine
 This project aims to predict the quality of wine using logistic regression combined with regularization
 
 Results:- 
